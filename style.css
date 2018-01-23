@@ -1,0 +1,44 @@
+
+body{margin:2px;
+text-align:center;}
+.poo{background-image:url("../images/cubes.jpg");}
+.nav li{
+	float: left;
+	list-style: none;
+
+}
+/*place the image*/
+.header{font-size:50px;}
+.main{text-decoration-line:;}
+/*type... not sure*/
+.link{
+	display:block;
+	border:4px black inset;
+	text-decoration-line: none;
+}
+.p{border:4px red dotted;
+margin:4px;}
+
+
+.k{background: yellow;
+	height: 200px;
+	width:40%;
+	margin: 49px;
+	float: left;
+}
+.ko{background:red;
+	height: 200px;
+	width:40%;
+	margin: 49px;
+	float: right;
+}
+.footer{
+	background-color: #000000;
+	float: left;
+	color: orange;
+	display: inline;
+	height: 50px;
+	width: 100%;
+	text-decoration-line: none;}
+
+
